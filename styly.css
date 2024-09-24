@@ -1,0 +1,22 @@
+.section{
+    width: 400px;
+    border: 1px solid rgb(212, 130, 185);
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    background-color: plum;
+    margin: 5px;
+    text-align: center;
+    font-size: 24px;
+}
+.menu{
+    background-color: rgb(247, 189, 237);
+    color: black;
+}
+.menuLista{
+    display: flex;
+    justify-content: space-around;
+    list-style: nonek;
+}
